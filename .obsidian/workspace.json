@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Range.md",
+                "file": "Python/Loops.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Range"
+              "title": "Loops"
             }
           }
         ]
@@ -187,10 +187,10 @@
   "lastOpenFiles": [
     "Python/Arrays.md",
     "Python/Range.md",
+    "Python/Loops.md",
     "Dev Problems/Two Sum.md",
     "Big O in 30 Second.md",
     "Code.md",
-    "Python/Loops.md",
     "Python",
     "Welcome.md",
     "Dev Problems"
