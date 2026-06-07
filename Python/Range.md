@@ -62,7 +62,7 @@ Here’s the **`range()` cheat sheet in table format** (clean + readable):
 |`range(a, b)`|Numbers from a to b−1|
 |`range(a, b, s)`|Numbers from a stepping by s until before b|
 
-# ✅ Quick Summary Table
+# ✅ Quick Summary
 
 | Call              | Output sequence |
 | ----------------- | --------------- |
